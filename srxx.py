@@ -1,2 +1,2 @@
-import SRXX
-SRXX.SrxBuy()
+import srx32
+srx32.SrxBuy()
