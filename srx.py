@@ -1,3 +1,3 @@
 import SRXX
-SRXX.SrxBuy()
+SRXX.Srx()
  
