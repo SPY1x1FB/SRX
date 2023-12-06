@@ -1,2 +1,2 @@
 import srx32
-srx32.SrxBuy()
+srx32.Srx()
