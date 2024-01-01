@@ -1,2 +1,2 @@
-import srx32
-srx32.Srx()
+import SRX32
+SRX32.Srx()
