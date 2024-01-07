@@ -1,3 +1,3 @@
 import SRXX
-SRXX.Srx()
+SRXX.Spy()
  
